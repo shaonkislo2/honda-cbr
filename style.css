@@ -1,21 +1,31 @@
 .body{
   font-family: 'Roboto', sans-serif;
- width: 100%;
- 
+}
+/* Header backgound color  */
+.color-honda-cbr{
+  background-color: #264653;
 }
 
+/* navbar font size & color  */
 .color-nab{
   color: rgb(202, 58, 22);
   font-size: 20px;
 }
-.color-honda-cbr{
-  background-color: #264653;
-}
+ /* Purchase modal style  */
 .first-purchase{
   background-color: #E76F51;
   padding: 10px 40px;
   border-radius: 10px;
 }
+/* fetures heading style  */
+.color-fetures{
+  color: #f05630;
+}
+/* Clients heading style  */
+.color-Clients{
+  color:#E76F51 ;
+}
+/* rating star style  */
 .color-star {  
 	color : rgb(236, 119, 9);  
 	font-size : 20px;  
@@ -23,15 +33,13 @@
 .non-color {  
 	font-size : 20px;  
 }
+
+/* Clients name style  */
 .color-actor{
   color: rgb(69, 154, 235);
 }
-.color-Clients{
-  color:#E76F51 ;
-}
-.color-bike{
-  color: #f05630;
-}
+
+/* questions heading style  */
 .color-questions{
   color:#E76F51  ;
 }
