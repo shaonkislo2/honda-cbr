@@ -1,4 +1,14 @@
-.honda-cbr{
+.body{
+  font-family: 'Roboto', sans-serif;
+ width: 100%;
+ 
+}
+
+.color-nab{
+  color: rgb(202, 58, 22);
+  font-size: 20px;
+}
+.color-honda-cbr{
   background-color: #264653;
 }
 .first-purchase{
@@ -21,4 +31,7 @@
 }
 .color-bike{
   color: #f05630;
+}
+.color-questions{
+  color:#E76F51  ;
 }
