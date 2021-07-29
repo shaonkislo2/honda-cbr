@@ -1,3 +1,24 @@
 .honda-cbr{
   background-color: #264653;
 }
+.first-purchase{
+  background-color: #E76F51;
+  padding: 10px 40px;
+  border-radius: 10px;
+}
+.color-star {  
+	color : rgb(236, 119, 9);  
+	font-size : 20px;  
+}  
+.non-color {  
+	font-size : 20px;  
+}
+.color-actor{
+  color: rgb(69, 154, 235);
+}
+.color-Clients{
+  color:#E76F51 ;
+}
+.color-bike{
+  color: #f05630;
+}
